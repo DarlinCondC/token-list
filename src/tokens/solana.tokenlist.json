@@ -61,6 +61,32 @@
   },
   "timestamp": "2021-03-03T19:57:21+0000",
   "tokens": [
+     {
+      "chainId": 101,
+      "address": "42rzC6ADWbg3AYqgqcbE86RkKnXGREo7x34AxBW3jMv3",
+      "symbol": "Condor",
+      "name": "CondorCoin",
+      "decimals": 12,
+      "logoURI": "https://drive.google.com/file/d/1pVNb_scGZ6ZSwRfLlxP54mytffR5-1li/view?usp=sharing",
+      "tags": [
+        "Defi",
+        "NFT",
+        "Governance",
+        "Game",
+        "Tool",
+        "Dapp",
+        "Wallet",
+        "investmentfund"
+      ],
+      "extensions": {
+        "website": "https://www.condorcoin.co",
+        "discord server": "https://discord.gg/bW3bCGdA",
+        "twitter": "https://twitter.com/condor_coin",
+        "reddit": "https://www.reddit.com/user/condorcoin",
+        "facebook": "https://www.facebook.com/Condor-Coin-108233578306800"
+        "instagram": "https://www.instagram.com/condorcoin/"
+      }
+    },
     {
       "chainId": 101,
       "address": "DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5",
