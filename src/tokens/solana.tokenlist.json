@@ -63,32 +63,6 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "42rzC6ADWbg3AYqgqcbE86RkKnXGREo7x34AxBW3jMv3",
-      "symbol": "Condor",
-      "name": "CondorCoin",
-      "decimals": 12,
-      "logoURI": "https://github.com/DarlinCondC/token-list/blob/main/assets/mainnet/42rzC6ADWbg3AYqgqcbE86RkKnXGREo7x34AxBW3jMv3/CONDOR.png",
-      "tags": [
-        "Defi",
-        "NFT",
-        "Governance",
-        "Game",
-        "Tool",
-        "Dapp",
-        "Wallet",
-        "investmentfund"
-      ],
-      "extensions": {
-        "website": "https://www.condorcoin.co",
-        "discord server": "https://discord.gg/bW3bCGdA",
-        "twitter": "https://twitter.com/condor_coin",
-        "reddit": "https://www.reddit.com/user/condorcoin",
-        "facebook": "https://www.facebook.com/Condor-Coin-108233578306800"
-        "instagram": "https://www.instagram.com/condorcoin/"
-      }
-    },
-    {
-      "chainId": 101,
       "address": "DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5",
       "symbol": "BTSL",
       "name": "Bitsol Finance",
@@ -17376,4 +17350,30 @@
     "minor": 3,
     "patch": 2
   }
-}
+},
+    {
+      "chainId": 101,
+      "address": "42rzC6ADWbg3AYqgqcbE86RkKnXGREo7x34AxBW3jMv3",
+      "symbol": "Condor",
+      "name": "CondorCoin",
+      "decimals": 12,
+      "logoURI": "https://github.com/DarlinCondC/token-list/blob/main/assets/mainnet/42rzC6ADWbg3AYqgqcbE86RkKnXGREo7x34AxBW3jMv3/CONDOR.png",
+      "tags": [
+        "Defi",
+        "NFT",
+        "Governance",
+        "Game",
+        "Tool",
+        "Dapp",
+        "Wallet",
+        "investmentfund"
+      ],
+      "extensions": {
+        "website": "https://www.condorcoin.co",
+        "discord server": "https://discord.gg/bW3bCGdA",
+        "twitter": "https://twitter.com/condor_coin",
+        "reddit": "https://www.reddit.com/user/condorcoin",
+        "facebook": "https://www.facebook.com/Condor-Coin-108233578306800"
+        "instagram": "https://www.instagram.com/condorcoin/"
+      }
+    }
